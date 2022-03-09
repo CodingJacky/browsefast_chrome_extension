@@ -1,0 +1,55 @@
+body {
+     height: 570px;
+     width: 400px;
+}
+
+img {
+     position: relative;
+     display: inline;
+     height: 35px;
+     width: 35px;
+     top:6px;
+}
+
+#head1 {
+     position: relative;
+     left: 80px;
+     top: 5px;
+     color: #333D79FF;
+     font-size: large;
+}
+
+#head2,#head3 {
+     color:darkblue
+}
+
+h1 {
+     font-family: 'Ubuntu', sans-serif;
+     display: inline;
+}
+
+.keys {
+     background-image: linear-gradient(to bottom right, #f58b3f, #f13590);
+     padding-left: 4px;
+     padding-right: 4px;
+     border-style: solid;
+     border-radius: 5px;
+     border-width: 1px;
+     font-family: 'Roboto Mono', monospace;;
+}
+
+h3,h2 {
+     display: inline;
+     font-family: 'Open Sans', sans-serif;
+}
+
+button {
+     border-width: 1px;
+     border-radius: 15px;
+     background-image: linear-gradient(rgb(255,0, 0) , rgba(255,255,255));
+}
+
+button:hover {
+     background-image: linear-gradient(#f7bb97 , #dd5e89);
+     cursor:pointer;
+}
