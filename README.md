@@ -20,4 +20,3 @@ This chrome extension drastically reduces the time taken to browse internet. ref
 # SCREENSHOT OF THE EXTENSTION UI
 
 ![BROWSE FAST](https://user-images.githubusercontent.com/91386977/158021770-cee2259f-7c7a-4b47-a622-b8c504bedd4c.png)
-
