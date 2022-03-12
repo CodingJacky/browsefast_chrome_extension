@@ -1,6 +1,6 @@
 # browsefast_chrome_extension
 (refer screenshots below for more info)
-This chrome extension drastically reduces the time taken to browse internet.
+This chrome extension drastically reduces the time taken to browse internet by providing user some very helpful shortcut keys
 
 # Loading the extension in the browser:
 
