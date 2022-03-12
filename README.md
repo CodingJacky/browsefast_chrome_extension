@@ -1,5 +1,5 @@
 # browsefast_chrome_extension
-This chrome extension drastically reduces the time taken to browse internet.
+This chrome extension drastically reduces the time taken to browse internet. refer sample screensots below...
 
 # Loading the extension in the browser:
 
@@ -16,3 +16,8 @@ This chrome extension drastically reduces the time taken to browse internet.
  * This helps us reduce the time to select a google search result by using mouse,
       because we do that very often a lot of  our time is saved.
  * We can also go to previous page we visited by using key 'a' and go to the page we came back by using key 'd'.
+
+# SCREENSHOT OF THE EXTENSTION UI
+
+![BROWSE FAST](https://user-images.githubusercontent.com/91386977/158021770-cee2259f-7c7a-4b47-a622-b8c504bedd4c.png)
+
